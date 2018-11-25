@@ -27,3 +27,21 @@ Block Time: 2 Minutes
 Minimum Stake Age: 3 hours
 
 Maximum Stake Age: 15 Days
+
+Total Supply	21	 21,000,000.00 		
+				
+POS	18	 18,000,000.00 		
+				
+Premine/POW	3	 3,000,000.00 		
+				
+Team and Development		 210,000.00 		7%
+				
+Contributors and Advisors		 120,000.00 		4%
+				
+Pre sale		 150,000.00 		5%
+				
+Bounty and Marketing		 120,000.00 		4%
+				
+ZONG Foundation		 1,650,000.00 		55%
+				
+Main Sale - Investors		 750,000.00 		25%
