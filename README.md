@@ -42,9 +42,10 @@ Max Supply: 21,000,000 CART
 ### Cart Distribution
 |                              | Cart               | %            |
 |------------------------------|--------------------|--------------|
-| CART Platform Reserve        | 1,950,000          |65 %          |
-| Development Team             | 75,000             |2.5 %         |
-| Bounty and Marketing         | 30,000             |1 %           |
-| Contributors and Advisors    | 45,000             |1.5 %         |
-| Pre sale                     | 150,000            |5 %           |
-| Main Sale - Investors        | 750,000            |25 %          |
+| Proof of Stake               | 18,000,000         |85.71 %       |
+| CART Platform Reserve        | 1,950,000          |9.29 %        |
+| Development Team             | 75,000             |0.21 %        |
+| Bounty and Marketing         | 30,000             |0.14 %        |
+| Contributors and Advisors    | 45,000             |0.21 %        |
+| Pre sale                     | 150,000            |0.71 %        |
+| Main Sale - Investors        | 750,000            |3.57 %        |
