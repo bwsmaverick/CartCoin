@@ -26,7 +26,13 @@ Maximum Stake Age: 15 Days
 
 Algo: Scrypt
 
+Wallet Port: 44321
+
+RPC Port: 44320
+
 Stake Reward: 4%
+
+Dev Reserve: 20% of Stake Reward
 
 Current Supply: 3,000,000 CART
 
@@ -36,11 +42,9 @@ Max Supply: 21,000,000 CART
 ### Cart Distribution
 |                              | Cart               | %            |
 |------------------------------|--------------------|--------------|
-| Team and Development         | 210,000            |7 %           |
-| Contributors and Advisors    | 120,000            |4 %           |
-| Bounty and Marketing         | 120,000            |4 %           |
-| CART Development Reserve     | 1,650,000          |55 %          |
+| CART Platform Reserve        | 1,950,000          |65 %          |
+| Team and Development         | 75,000             |2.5 %         |
+| Bounty and Marketing         | 30,000             |1 %           |
+| Contributors and Advisors    | 45,000             |1.5 %         |
 | Pre sale                     | 150,000            |5 %           |
 | Main Sale - Investors        | 750,000            |25 %          |
-
-Wallet Port: 44321, RPC Port: 44320
