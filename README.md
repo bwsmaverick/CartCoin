@@ -43,7 +43,7 @@ Max Supply: 21,000,000 CART
 |                              | Cart               | %            |
 |------------------------------|--------------------|--------------|
 | CART Platform Reserve        | 1,950,000          |65 %          |
-| Team Development Team        | 75,000             |2.5 %         |
+| Development Team             | 75,000             |2.5 %         |
 | Bounty and Marketing         | 30,000             |1 %           |
 | Contributors and Advisors    | 45,000             |1.5 %         |
 | Pre sale                     | 150,000            |5 %           |
